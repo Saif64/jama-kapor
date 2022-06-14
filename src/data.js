@@ -25,7 +25,7 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://images.pexels.com/photos/5886041/pexels-photo-5886041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      img: "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/productimage/2020/1/17/d71045b2-4300-4395-b110-f652fa00e9e51579211471795-1.jpg",
       title: "SHIRT STYLE!",
     },
     {
@@ -35,7 +35,7 @@ export const sliderItems = [
     },
     {
       id: 3,
-      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      img: "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/6411312/2019/10/15/923f407a-3fc4-4990-8938-fa4c598837a91571123536987-Roadster-Men-Khaki-Solid-Tailored-Jacket-1541571123535108-1.jpg",
       title: "LIGHT JACKETS",
     },
   ];
