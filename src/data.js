@@ -43,11 +43,11 @@ export const sliderItems = [
   export const popularProducts = [
     {
       id:1,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBvEqP6T1mykCRp69RSjDTyqFN9k9kKb_Vw&usqp=CAU",
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://static-01.daraz.com.bd/p/ec23aeb565046cb0a7f85f9cc494f45c.jpg",
     },
     {
       id:3,
@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://www.aarong.com/media/catalog/product/0/5/0540000019223.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=400&width=300&canvas=300:400",
     },
     {
       id:8,
