@@ -1,4 +1,6 @@
-## This is a project for academic purpose of cse470 course..
+# This is a project for academic purpose <br>
+## cse470
+
 
 **course instructor:** TIK <br>
 **course code:** 470 <br>
