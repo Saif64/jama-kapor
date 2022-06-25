@@ -1,4 +1,4 @@
-# This is a project for academic purpose <br>
+# This is a project for academic purpose 
 ## cse470
 
 
