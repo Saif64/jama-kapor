@@ -1,4 +1,4 @@
-import styled from "styled-components"
+import styled from "styled-components";
 import { mobile } from "../responsive";
 
 const Container = styled.div`
@@ -6,7 +6,7 @@ const Container = styled.div`
   margin: 3px;
   height: 70vh;
   position: relative;
-`
+`;
 const Image = styled.img`
   width: 100%;
   height: 100%;
@@ -28,29 +28,30 @@ const Info = styled.div`
 `;
 
 const Title = styled.h1`
-    color:white;
-    margin-bottom: 20px;
+  color: white;
+  margin-bottom: 20px;
 `;
 
 const Button = styled.button`
-    border:none;
-    padding: 10px;
-    background-color: white;
-    color:gray;
-    cursor: pointer;
-    font-weight: 600;
+  border: none;
+  padding: 10px;
+  background-color: white;
+  color: gray;
+  border-radius: 25px;
+  cursor: pointer;
+  font-weight: 600;
 `;
 
 const CategoryItem = ({ item }) => {
-    return (
-      <Container>
-        <Image src={item.img} />
-        <Info>
-          <Title>{item.title}</Title>
-          <Button>SHOP NOW</Button>
-        </Info>
-      </Container>
-    );
-  };
+  return (
+    <Container>
+      <Image src={item.img} />
+      <Info>
+        <Title>{item.title}</Title>
+        <Button>SHOP NOW</Button>
+      </Info>
+    </Container>
+  );
+};
 
-export default CategoryItem
+export default CategoryItem;

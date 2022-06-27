@@ -1,22 +1,18 @@
-import styled from "styled-components"
+import styled from "styled-components";
 
 const Container = styled.div`
-    height : 30px;
-    background-color : teal;
-    color : white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 14px;
-    font-weight: bold;
-`
+  height: 30px;
+  background-color: green;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  font-weight: bold;
+`;
 
 const Announcement = () => {
-  return (
-    <Container>
-        Super Deal!!! Buy our products now!!!
-    </Container>
-  )
-}
+  return <Container>Super Deal!!! Buy our products now!!!</Container>;
+};
 
-export default Announcement
+export default Announcement;
