@@ -28,6 +28,7 @@ export default function Sidebar() {
                 Home
               </li>
             </Link>
+            //may implement later
             <li className="sidebarListItem">
               <Timeline className="sidebarIcon" />
               Analytics
@@ -53,6 +54,7 @@ export default function Sidebar() {
                 Products
               </li>
             </Link>
+            //may implement later all these
             <li className="sidebarListItem">
               <AttachMoney className="sidebarIcon" />
               Transactions
