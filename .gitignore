@@ -1,5 +1,5 @@
 adminpanel_view\node_modules\.cache\
-adminpanel_view/node_modules/.cache/
+./adminpanel_view/node_modules
 node_modules
 adminpanel_view/default-development/
 adminpanel_view/node_modules/.cache/.eslintcache
