@@ -4,3 +4,6 @@ node_modules
 adminpanel_view/default-development/
 adminpanel_view/node_modules/.cache/.eslintcache
 adminpanel_view/node_modules/.cache/.eslintcache
+adminpanel_view/node_modules/.cache/default-development/1.pack
+adminpanel_view/node_modules/.cache/default-development/index.pack
+adminpanel_view/node_modules/.cache/default-development/index.pack.old
