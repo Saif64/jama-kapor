@@ -28,7 +28,7 @@ export default function Sidebar() {
                 Home
               </li>
             </Link>
-            //may implement later
+            {/* //may implement later
             <li className="sidebarListItem">
               <Timeline className="sidebarIcon" />
               Analytics
@@ -36,7 +36,7 @@ export default function Sidebar() {
             <li className="sidebarListItem">
               <TrendingUp className="sidebarIcon" />
               Sales
-            </li>
+            </li> */}
           </ul>
         </div>
         <div className="sidebarMenu">
@@ -54,7 +54,7 @@ export default function Sidebar() {
                 Products
               </li>
             </Link>
-            //may implement later all these
+            {/* //may implement later all these
             <li className="sidebarListItem">
               <AttachMoney className="sidebarIcon" />
               Transactions
@@ -96,7 +96,7 @@ export default function Sidebar() {
             <li className="sidebarListItem">
               <Report className="sidebarIcon" />
               Reports
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>
