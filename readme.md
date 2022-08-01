@@ -1,4 +1,4 @@
-# This is a project for academic purpose 
+# This is a project for both academic and CV purpose 
 ## cse470
 
 
