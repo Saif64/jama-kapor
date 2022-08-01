@@ -9,3 +9,8 @@
 **stack used:** MERN<br>
 **project type:** E-commerce shop<br>
 
+<p> write in your terminal
+
+```yarn start
+```
+
