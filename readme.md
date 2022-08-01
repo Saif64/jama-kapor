@@ -11,6 +11,5 @@
 
 <p> write in your terminal
 
-```yarn start
-```
+```yarn start```
 
