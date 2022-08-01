@@ -11,5 +11,7 @@
 
 <p> write in your terminal
 
+```cd directory/```
+  then
 ```yarn start```
-
+</p>
