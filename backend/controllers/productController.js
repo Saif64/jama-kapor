@@ -4,7 +4,7 @@ const catchAsyncErrors = require("../middleware/catchAsyncErrors");
 const ApiFeatures = require("../utils/apifeatures");
 const cloudinary = require("cloudinary");
 
-// Create Product -- Admin
+// Create Product For Admin
 exports.createProduct = catchAsyncErrors(async (req, res, next) => {
   let images = [];
 
@@ -88,7 +88,7 @@ exports.getProductDetails = catchAsyncErrors(async (req, res, next) => {
   });
 });
 
-// Update Product -- Admin
+// Update Product For Admin
 
 exports.updateProduct = catchAsyncErrors(async (req, res, next) => {
   let product = await Product.findById(req.params.id);
@@ -141,7 +141,6 @@ exports.updateProduct = catchAsyncErrors(async (req, res, next) => {
 });
 
 // Delete Product
-
 exports.deleteProduct = catchAsyncErrors(async (req, res, next) => {
   const product = await Product.findById(req.params.id);
 

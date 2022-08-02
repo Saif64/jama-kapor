@@ -14,8 +14,10 @@ const { isAuthenticatedUser, authorizeRoles } = require("../middleware/auth");
 
 const router = express.Router();
 
+// Get All Product
 router.route("/products").get(getAllProducts);
 
+// Create Product For Admin
 router
   .route("/admin/products")
   .get(isAuthenticatedUser, authorizeRoles("admin"), getAdminProducts);
