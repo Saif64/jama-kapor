@@ -4,7 +4,10 @@
   "description": "**course instructor:** TIK <br>\r **course code:** CSE470 <br>\r **course name:** Software Engineering<br>",
   "main": "backend/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false && npm install --prefix frontend && npm run build --prefix frontend"
   },
   "repository": {
     "type": "git",
@@ -15,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/Saif64/Jama-Kapor/issues"
   },
-  "homepage": "https://github.com/Saif64/Jama-Kapor#readme"
+  "homepage": "https://github.com/Saif64/Jama-Kapor#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^5.13.5"
+  }
 }
