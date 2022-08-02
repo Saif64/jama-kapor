@@ -11,5 +11,5 @@
 
 ```cd directory/```
   then
-```yarn start```
+```yarn start``` or ```npm run```
 </p>
