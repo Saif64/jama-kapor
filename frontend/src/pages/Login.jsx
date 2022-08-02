@@ -11,7 +11,7 @@ const Container = styled.div`
       rgba(255, 255, 255, 0.5),
       rgba(255, 255, 255, 0.5)
     ),
-    url("https://tistory4.daumcdn.net/tistory/2980695/skin/images/bg03.png")
+    url("https://cdn.dribbble.com/users/1018473/screenshots/5344535/login.png")
       center;
   background-size: cover;
   display: flex;
