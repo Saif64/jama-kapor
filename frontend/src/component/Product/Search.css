@@ -35,7 +35,7 @@
   font: 300 1.1vmax "Roboto";
   cursor: pointer;
   color: white;
-  transition: all 0.5s;
+  transition: all 0.53s;
 }
 
 .searchBox > input[type="submit"]:hover {

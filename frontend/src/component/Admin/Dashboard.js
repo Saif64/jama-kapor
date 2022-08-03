@@ -37,7 +37,7 @@ const Dashboard = () => {
   let totalAmount = 0;
   orders &&
     orders.forEach((item) => {
-      totalAmount += item.totalPrice;
+      totalAmount += Math.round(item.totalPrice);
     });
 
   const lineState = {
