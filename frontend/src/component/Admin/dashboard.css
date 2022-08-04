@@ -39,6 +39,7 @@
   padding: 1.5rem;
   width: 100%;
   margin: 0 2rem;
+  border-radius: 0.8rem;
 }
 .dashboardSummaryBox2 > a {
   color: rgb(0, 0, 0);
@@ -50,7 +51,7 @@
   width: 10vmax;
   height: 10vmax;
   margin: 2rem;
-  border-radius: 100%;
+  border-radius: 20%;
   display: flex;
   justify-content: center;
   align-items: center;
