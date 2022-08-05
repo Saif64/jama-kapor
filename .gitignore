@@ -10007,3 +10007,4 @@ adminpanel_view/node_modules/eslint-webpack-plugin/node_modules/ajv-keywords/src
 adminpanel_view/node_modules/eslint-webpack-plugin/node_modules/ajv-keywords/src/keywords/transform.ts
 adminpanel_view/node_modules/eslint-webpack-plugin/node_modules/ajv-keywords/src/keywords/typeof.ts
 adminpanel_view/node_modules/eslint-webpack-plugin/node_modules/ajv-keywords/src/keywords/uniqueItemProperties.ts
+backend/config/config.env
