@@ -11,13 +11,13 @@ import Typography from "@material-ui/core/Typography";
 import MetaData from "../layout/MetaData";
 
 const categories = [
-  "Laptop",
+  "Shoe",
   "Footwear",
   "Bottom",
   "Tops",
   "Attire",
-  "Camera",
-  "SmartPhones",
+  "T-shirt",
+  "Cap",
 ];
 
 const Products = ({ match }) => {
