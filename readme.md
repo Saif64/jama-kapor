@@ -7,7 +7,7 @@
 **stack used:** MERN<br>
 **project type:** E-commerce shop<br>
 
-<p> write in your terminal to run the code
+### ***write in your terminal to run the code***<br>
 
  `cd run dev`
  then 
