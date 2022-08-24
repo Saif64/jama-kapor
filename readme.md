@@ -1,8 +1,16 @@
-# This is a project where a full E-commerce website is built with MERN stack.
+# This is a project for both academic and CV purpose
+
+**course instructor:** TIK <br>
+**course code:** CSE470 <br>
+**course name:** Software Engineering<br>
 
 **stack used:** MERN<br>
 **project type:** E-commerce shop<br>
 
-<p> Landing page </p>
+<p> write in your terminal
 
-![alt](https://drive.google.com/file/d/1lYi3plabVnmdLGkD4vJVjv-SnGuSOwTn/view?usp=sharing)
+`cd directory/`
+then
+`yarn start` or `npm start`
+
+</p>
