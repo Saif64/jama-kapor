@@ -5,4 +5,4 @@
 
 <p> Landing page </p>
 
-![alt](<[<[https://](https://cutt.ly/fXFAvLW)>](https://drive.google.com/file/d/1lYi3plabVnmdLGkD4vJVjv-SnGuSOwTn/view?usp=sharing)>)
+![alt](https://drive.google.com/file/d/1lYi3plabVnmdLGkD4vJVjv-SnGuSOwTn/view?usp=sharing)
