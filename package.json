@@ -1,6 +1,9 @@
 {
   "name": "jama_kapor",
   "version": "1.0.0",
+   "engines": {
+    "node": "16.15.1"
+  },
   "description": "**course instructor:** TIK <br>\r **course code:** CSE470 <br>\r **course name:** Software Engineering<br>",
   "main": "backend/server.js",
   "scripts": {
