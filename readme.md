@@ -1,9 +1,5 @@
 # This is a project for both academic and CV purpose
 
-**course instructor:** TIK <br>
-**course code:** CSE470 <br>
-**course name:** Software Engineering<br>
-
 **stack used:** MERN<br>
 **project type:** E-commerce shop<br>
 
@@ -15,6 +11,35 @@
 then
 `yarn start` or `npm start`
 </p>
+
+### List of Features
+> FUll responsive using react and tailwind
+> 
+> Used React and nodeJS
+>
+> FUll anti SQL injection support
+>
+> posting review
+>
+> JWT Authentication, CryptoJS support
+>
+> dedicated admin panel
+>
+> Cloudinary image upload
+>
+> stripe payment
+>
+> Filter with price
+>
+> search Bar using keyword
+>
+> dedicated profile page, edit profile info, password
+>
+> admin panel uses ReactGraph
+>
+> follows MVC patter
+>
+> And many more i can not even remember xD
 
 # Here are some of the screenshots of the website
 
