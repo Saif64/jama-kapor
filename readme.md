@@ -1,7 +1,6 @@
-# This is a project for both academic and CV purpose
-
-**stack used:** MERN<br>
-**project type:** E-commerce shop<br>
+## **Stack Used:** MERN<br>
+## **Project Type:** E-commerce shop<br>
+## **Project Name:** Jama kapor<br>
 
 ### ***write in your terminal to run the code***<br>
 
