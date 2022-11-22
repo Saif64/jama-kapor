@@ -1,16 +1,7 @@
-# This is a project for both academic and CV purpose
+## **Stack Used:** MERN<br>
+## **Project Type:** E-commerce shop<br>
+## **Project Name:** Jama kapor<br>
 
-**stack used:** MERN<br>
-**project type:** E-commerce shop<br>
-
-### ***write in your terminal to run the code***<br>
-
- `cd run dev`
- then 
-`cd frontend/`
-then
-`yarn start` or `npm start`
-</p>
 
 ### List of Features
 > FUll responsive using react and tailwind
