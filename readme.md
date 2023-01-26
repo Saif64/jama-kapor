@@ -1,6 +1,5 @@
-## **Stack Used:** MERN<br>
-## **Project Type:** E-commerce shop<br>
-## **Project Name:** Jama kapor<br>
+ **Stack Used:** MERN<br>
+ **Project Type:** E-commerce shop<br>
 
 
 ### List of Features
